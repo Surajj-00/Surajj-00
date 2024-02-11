@@ -49,7 +49,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajj-00&show_icons=true&locale=en&layout=compact" alt="surajj-00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajj-00&show_icons=true&locale=en" alt="surajj-00" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=surajj-00&show_icons=true&locale=en" alt="surajj-00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajj-00&" alt="surajj-00" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surajj-00&" alt="surajj-00" /></p>
 
