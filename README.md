@@ -53,3 +53,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajj-00&" alt="surajj-00" /></p>
 
+
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/Surajj-00/Surajj-00/output/snake.svg" alt="Snake animation" />
+
+###
+
