@@ -60,7 +60,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajj-00&" alt="surajj-00" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajj-00&" alt="surajj-00&theme=dracula" />
 
 
 
