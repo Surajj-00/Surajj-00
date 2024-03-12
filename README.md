@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 **I’m currently working on:** <br> Frontend Developing with attractive user interface
 
-- 🤖 **I’m currently learning:** <br> React/Next JS13 & React Toastify
+- 🤖 **I’m currently learning:** <br> React & NextJS
 
 - 👨🏻‍🤝‍👨🏻**I’m looking to collaborate on:**  Frontend projects
 
