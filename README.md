@@ -36,7 +36,7 @@
 
 
 
-<h3 align="left">☁️ Hosting/SaaS:</h3>
+<h3 align="left">☁️ Hosting/Auth:</h3>
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
