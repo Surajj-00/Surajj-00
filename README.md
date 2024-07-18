@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajj-00&label=Profile%20views&color=0e75b6&style=flat" alt="surajj-00" /> </p>
 
-- 👨🏻‍💻 **I’m currently working on:** <br> Frontend Development with modern user interface
+- 👨🏻‍💻 **I’m currently working on:** <br> Frontend Development with Modern & animated user interface
 
 - 🤖 **I’m currently learning:** <br> React & NextJS
 
@@ -24,6 +24,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-%23E0234E?style=for-the-badge&logo=next.js&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
