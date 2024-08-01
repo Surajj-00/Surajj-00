@@ -42,9 +42,8 @@ alt="surajj_00" height="30" width="40" /></a>
 
 
 
-<h3 align="left">☁️ Hosting/Auth:</h3>
+<h3 align="left">☁️ Hosting:</h3>
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23123F6D.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
